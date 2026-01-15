@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>哈姆的博客</title>
+  
+  <subtitle>qaq</subtitle>
+  <link href="http://owl-gugugugu.github.io/atom.xml" rel="self"/>
+  
+  <link href="http://owl-gugugugu.github.io/"/>
+  <updated>2026-01-15T08:56:00.884Z</updated>
+  <id>http://owl-gugugugu.github.io/</id>
+  
+  <author>
+    <name>owl_gugugugu</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>学习计划</title>
+    <link href="http://owl-gugugugu.github.io/2026/01/15/post/"/>
+    <id>http://owl-gugugugu.github.io/2026/01/15/post/</id>
+    <published>2026-01-15T08:53:19.000Z</published>
+    <updated>2026-01-15T08:56:00.884Z</updated>
+    
+    <content type="html"><![CDATA[<p>rt，想了一下还是考个研回头找国企躺平比较适合我，回头去考研吧翻一翻经验贴，规划一下今年的学习计划吧。</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;rt，想了一下还是考个研回头找国企躺平比较适合我，回头去考研吧翻一翻经验贴，规划一下今年的学习计划吧。&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    
+    <category term="学习 考研" scheme="http://owl-gugugugu.github.io/tags/%E5%AD%A6%E4%B9%A0-%E8%80%83%E7%A0%94/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>第一篇博客</title>
+    <link href="http://owl-gugugugu.github.io/2026/01/15/hello-world/"/>
+    <id>http://owl-gugugugu.github.io/2026/01/15/hello-world/</id>
+    <published>2026-01-15T06:54:04.133Z</published>
+    <updated>2026-01-15T07:38:06.769Z</updated>
+    
+    <content type="html"><![CDATA[<p>rt: 2023-01-01</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;rt: 2023-01-01&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
